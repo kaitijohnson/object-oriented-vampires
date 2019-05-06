@@ -19,10 +19,10 @@
                 <div class="title m-b-md">
                     Vampires
                 </div>
-{{ $vampire }}
+                  {{ $vampire }}
                 <div id="app">
-
-
+                  This is broken because of props:
+                  <example-component :vampire="{{ $vampire }}"></example-component>
                 </div>
 
             </div>

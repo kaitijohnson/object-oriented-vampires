@@ -3,6 +3,7 @@ passing props from controller to component
 Routes
 
 Next week:
+more of this, but less shitty
 
 from Noferatu.php:
 <?php include("hepV.php"); ?>
